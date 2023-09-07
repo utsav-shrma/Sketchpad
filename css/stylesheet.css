@@ -1,0 +1,193 @@
+       
+        body
+        {
+            height: 890px;
+            width: 1440px;
+            margin: 0%;
+            padding: 0%;
+        }
+        #container
+        {
+            display: flex;
+            flex-direction: column;
+        }
+
+        #sub-container-1
+        {
+            background: #FFCD9E;
+            display: flex;
+            height: 592px;
+            flex-direction: row; 
+        }
+
+        #sub-container-2
+        {
+            background: #282828;
+            display: flex;
+            height: 298px;
+            flex-direction: row;
+        }
+        
+        #top-left
+        {   
+            width:818px;
+        }
+
+        #top-right
+        {
+            margin-top: 20px;
+        }
+
+        #first{
+            margin-top: 83px;
+            margin-left: 136px;
+            font-family: Inter;
+            font-size: 36px;
+            font-weight: 700;
+            line-height: 54px;
+            letter-spacing: 0em;
+            text-align: left;
+            width: 562px;
+            height: 108px;
+            top: 83px;
+            left: 136px;
+        }
+
+        #second
+        {
+            margin-left: 136px;
+            font-family: Inter;
+            font-size: 20px;
+            font-weight: 500;
+            line-height: 32px;
+            letter-spacing: 0em;
+            text-align: left;
+            width: 495px;
+            height: 81px;
+            top: 219px;
+            left: 136px;
+            color: #484848;
+        }
+        
+        #third
+        {
+            font-family: Inter;
+            margin-left: 136px;
+            font-size: 20px;
+            font-weight: 800;
+            line-height: 32px;
+            letter-spacing: 0em;
+            text-align: left;
+            vertical-align: middle;
+            margin-top: 50px;
+            margin-bottom: 40px;      
+        }
+
+        #email::placeholder
+        {
+            font-family: Inter;
+            font-size: 20px;
+            font-weight: 600;
+            line-height: 32px;
+            letter-spacing: 0em;
+            text-align: left;
+            padding-left: 22px;
+
+        }
+
+        #email
+        {
+            margin-left: 136px;
+            height: 56px;
+            top: 411px;
+            left: 158px;
+            width: 344px;
+            border-width: 4px;
+            border-radius: 8px;
+            border-color: black;
+        }
+
+        #white-text
+        {
+
+            width: 344px;
+            height: 61px;
+            top: 479px;
+            left: 134px;
+            margin-left: 134px;
+            font-family: Inter;
+            font-size: 16px;
+            font-weight: 500;
+            line-height: 26px;
+            letter-spacing: 0em;
+            text-align: center;
+            color: white;
+        }
+
+        #register
+        {
+            width: 216px;
+            height: 64px;
+            top: 411px;
+            margin-left: 10px;    
+            border-radius: 8px;
+            font-family: Inter;
+            font-size: 20px;
+            font-weight: 700;
+            line-height: 24px;
+            letter-spacing: 0em;
+            text-align: center;
+            color: white;
+            background-color: #282828;
+        }
+        
+        ul
+        {
+            list-style-type: none;
+            font-family: Inter;
+            font-size: 20px;
+            font-weight: 400;
+            line-height: 32px;
+            letter-spacing: 0em;
+            color: white;
+        }
+
+        #bottom-right
+        {      
+            width: 50%;
+        }
+        
+        #bottom-left
+        {
+            width: 50%;
+        }
+        #bottom-left-list
+        {
+            margin-top: 62px;
+            margin-left: 191px;
+            padding-left: 0%;   
+        }
+
+        #bottom-left-list li
+        {    
+            height: 36px;
+        }
+        
+        #bottom-right-list li
+        {
+            
+            height: 36px;
+        }
+
+        #bottom-right-list
+        {
+            text-align: right;
+            margin-right: 193px;
+            margin-top: 62px;
+           
+        }
+
+        #site-link
+        {
+            margin-top: 36px;
+        }
